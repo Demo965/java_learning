@@ -1,4 +1,4 @@
-package jihe;
+package collection;
 
 import java.util.Comparator;
 import java.util.Set;

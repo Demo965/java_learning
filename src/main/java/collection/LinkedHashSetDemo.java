@@ -1,4 +1,4 @@
-package jihe;
+package collection;
 
 import java.util.LinkedHashSet;
 import java.util.Set;

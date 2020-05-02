@@ -1,4 +1,4 @@
-package jihe;
+package collection;
 
 import java.util.Set;
 import java.util.TreeSet;
