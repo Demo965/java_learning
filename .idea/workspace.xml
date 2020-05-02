@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3b3c37e4-58af-4c89-bddf-c452733a8bd7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Dog">
+      <favorite_root url="file://$PROJECT_DIR$/src/main/java/Dog.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\27410\IdeaProjects\first_java_learning\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uyoq6whMjgprE1ewYwsCOXj9Gz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\27410\IdeaProjects\first_java_learning\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FanxingDemo">
+    <configuration name="FanxingDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="List.FanxingDemo" />
+      <module name="first_java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LinkedHashSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jihe.LinkedHashSetDemo" />
+      <module name="first_java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jihe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodParameters" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="study.CLASS.MethodParameters" />
+      <module name="first_java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="study.CLASS.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jihe.TreeSetDemo" />
+      <module name="first_java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jihe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TreeSetDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jihe.TreeSetDemo2" />
+      <module name="first_java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jihe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Work3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jihe.Work3" />
+      <module name="first_java_learning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jihe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FanxingDemo" />
+        <item itemvalue="Application.TreeSetDemo2" />
+        <item itemvalue="Application.TreeSetDemo" />
+        <item itemvalue="Application.LinkedHashSetDemo" />
+        <item itemvalue="Application.Work3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3b3c37e4-58af-4c89-bddf-c452733a8bd7" name="Default Changelist" comment="" />
+      <created>1576338383844</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576338383844</updated>
+      <workItem from="1576338386644" duration="2782000" />
+      <workItem from="1577507871765" duration="9236000" />
+      <workItem from="1577521038459" duration="7062000" />
+      <workItem from="1578117982775" duration="1986000" />
+      <workItem from="1578741307637" duration="3837000" />
+      <workItem from="1579676661286" duration="632000" />
+      <workItem from="1579680664876" duration="1609000" />
+      <workItem from="1579971505144" duration="2181000" />
+      <workItem from="1579973710017" duration="1796000" />
+      <workItem from="1579975880538" duration="850000" />
+      <workItem from="1580203615669" duration="2017000" />
+      <workItem from="1580482278597" duration="1189000" />
+      <workItem from="1580923692761" duration="923000" />
+      <workItem from="1582352389635" duration="105000" />
+      <workItem from="1582352555023" duration="528000" />
+      <workItem from="1582353140375" duration="66000" />
+      <workItem from="1582353244956" duration="1206000" />
+      <workItem from="1582942418665" duration="2465000" />
+      <workItem from="1584246099677" duration="1910000" />
+      <workItem from="1584788101953" duration="9000" />
+      <workItem from="1587351475339" duration="22596000" />
+      <workItem from="1587432527112" duration="18373000" />
+      <workItem from="1587558699309" duration="16421000" />
+      <workItem from="1587628706081" duration="9528000" />
+      <workItem from="1587735622915" duration="5462000" />
+      <workItem from="1587891775095" duration="1617000" />
+      <workItem from="1587893404941" duration="10167000" />
+      <workItem from="1588079450520" duration="8063000" />
+      <workItem from="1588154839489" duration="27742000" />
+      <workItem from="1588248998772" duration="11400000" />
+      <workItem from="1588405336556" duration="2291000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="99" y="93" key="#Getter_Template" timestamp="1588196737146">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="99" y="93" key="#Getter_Template/0.0.1536.834@0.0.1536.834" timestamp="1588196737146" />
+    <state x="361" y="75" key="#Project_Structure" timestamp="1588251779050">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="75" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1588251779050" />
+    <state x="0" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587893267229">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="96" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1587893267229" />
+    <state x="191" y="233" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587894934468">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="191" y="233" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1587894934468" />
+    <state x="258" y="127" width="495" height="615" key="#com.intellij.ide.util.MemberChooser" timestamp="1588257233159">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="258" y="127" width="495" height="615" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1588257233159" />
+    <state x="437" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587905439841">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="437" y="138" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.834@0.0.1536.834" timestamp="1587905439841" />
+    <state x="583" y="172" key="FileChooserDialogImpl" timestamp="1588406962376">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="583" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1588406962376" />
+    <state width="742" height="148" key="GridCell.Tab.0.bottom" timestamp="1588404648266">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="742" height="148" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1588404648266" />
+    <state width="1493" height="274" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1580204983813" />
+    <state width="742" height="148" key="GridCell.Tab.0.center" timestamp="1588404648266">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="742" height="148" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1588404648266" />
+    <state width="1493" height="274" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1580204983813" />
+    <state width="742" height="148" key="GridCell.Tab.0.left" timestamp="1588404648266">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="742" height="148" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1588404648266" />
+    <state width="1493" height="274" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1580204983812" />
+    <state width="742" height="148" key="GridCell.Tab.0.right" timestamp="1588404648266">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="742" height="148" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1588404648266" />
+    <state width="1493" height="274" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1580204983813" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1587487330377">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587487330377" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1587487330377">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587487330377" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1587487330377">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587487330377" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1587487330377">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587487330377" />
+    <state x="0" y="56" key="Maven.ArtifactSearchDialog" timestamp="1588190861260">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="56" key="Maven.ArtifactSearchDialog/0.0.1536.834@0.0.1536.834" timestamp="1588190861260" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1588406965121">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1588406965121" />
+    <state x="449" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1588405339287">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="449" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1588405339287" />
+    <state x="449" y="247" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1580482891343" />
+    <state x="178" y="112" key="new project wizard" timestamp="1588407699569">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="178" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1588407699569" />
+    <state x="445" y="263" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1588168228282">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="445" y="263" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.834@0.0.1536.834" timestamp="1588168228282" />
+    <state x="154" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1588194987264">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="154" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1588194987264" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/first_java_learning$FloatTest.ic" NAME="FloatTest Coverage Results" MODIFIED="1577508503155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/first_java_learning$ForEachTest.ic" NAME="ForEachTest Coverage Results" MODIFIED="1587401881025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/first_java_learning$CharChang.ic" NAME="CharChang Coverage Results" MODIFIED="1587351707998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/first_java_learning$MethodParameters.ic" NAME="MethodParameters Coverage Results" MODIFIED="1587893508509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>study.CLASS.*</FILTER>
+    </SUITE>
+  </component>
+</project>
